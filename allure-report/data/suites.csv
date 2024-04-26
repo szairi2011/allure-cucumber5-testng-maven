@@ -1,0 +1,14 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Tue Apr 23 17:44:44 WAT 2024","Tue Apr 23 17:44:44 WAT 2024","3","","Labels","","Delete existing label for authorized user","","Delete existing label for authorized user",""
+"skipped","Tue Apr 23 17:44:44 WAT 2024","Tue Apr 23 17:44:44 WAT 2024","6","","Hear shout","","Using custom parameter in step definition, e.g. person","","Using custom parameter in step definition, e.g. person","  Description: Scenarios to describe the behaviour of the shouty application
+  Description can span multi-lines, an can be handy also to include issue tracker links, etc"
+"broken","Tue Apr 23 17:44:44 WAT 2024","Tue Apr 23 17:44:44 WAT 2024","4","","Labels","","Create new label for authorized user","","Create new label for authorized user",""
+"passed","Tue Apr 23 17:44:44 WAT 2024","Tue Apr 23 17:44:44 WAT 2024","1","","Milestones","","Close existing milestone for authorized user","","Close existing milestone for authorized user",""
+"passed","Tue Apr 23 17:44:44 WAT 2024","Tue Apr 23 17:44:44 WAT 2024","1","","Labels","","Delete existing label via api","","Delete existing label via api",""
+"passed","Tue Apr 23 17:44:44 WAT 2024","Tue Apr 23 17:44:44 WAT 2024","1","","Milestones","","Create new milestone for authorized user","","Create new milestone for authorized user",""
+"passed","Tue Apr 23 17:44:44 WAT 2024","Tue Apr 23 17:44:44 WAT 2024","13","","Hear shout","","Listener is within range","","Listener is within range","  Description: Scenarios to describe the behaviour of the shouty application
+  Description can span multi-lines, an can be handy also to include issue tracker links, etc"
+"passed","Tue Apr 23 17:44:44 WAT 2024","Tue Apr 23 17:44:44 WAT 2024","1","","Labels","","Create new label via api","","Create new label via api",""
+"unknown","Tue Apr 23 17:44:44 WAT 2024","Tue Apr 23 17:44:44 WAT 2024","0","","Hear shout","","Empty scenario, to remind us that there is still work to be done","","Empty scenario, to remind us that there is still work to be done","  Description: Scenarios to describe the behaviour of the shouty application
+  Description can span multi-lines, an can be handy also to include issue tracker links, etc"
+"broken","Tue Apr 23 17:44:44 WAT 2024","Tue Apr 23 17:44:44 WAT 2024","4","","Labels","","Add label to existing issue for authorized user","","Add label to existing issue for authorized user",""

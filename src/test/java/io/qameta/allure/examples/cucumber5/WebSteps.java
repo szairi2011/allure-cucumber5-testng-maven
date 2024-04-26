@@ -3,6 +3,9 @@ package io.qameta.allure.examples.cucumber5;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import io.qameta.allure.Epic;
+import io.qameta.allure.Step;
+import io.qameta.allure.Story;
 
 import java.util.Random;
 
