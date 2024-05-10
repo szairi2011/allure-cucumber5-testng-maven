@@ -1,0 +1,47 @@
+https://jira.fis.dev/browse/FISCD-153881# Ignore generated files
+*.class
+
+# Ignore test files
+**/test/*
+**/target/*
+
+# Ignore Cucumber reports
+**/cucumber-report/*
+
+# Ignore Allure reports
+**/allure-report/*
+
+# Ignore IDE-specific files
+**/idea/
+**/*.iml
+**/*.ipr
+**/*.iws
+**/*.iws.user
+**/*.iws.meta
+**/*.iws.tables
+**/*.iws.iml
+**/*.iws.xml
+**/*.iws.bin
+**/*.iws.log
+**/*.iws.pid
+**/*.iws.properties
+**/*.iws.properties.lock
+**/*.iws.properties.meta
+**/*.iws.properties.log
+**/*.iws.properties.pid
+**/*.iws.properties.bin
+**/*.iws.properties.bin.meta
+**/*.iws.properties.bin.pid
+**/*.iws.properties.bin.log
+**/*.iws.properties.bin.pid.lock
+**/*.iws.properties.bin.log.lock
+**/*.iws.properties.bin.pid.log
+**/*.iws.properties.bin.pid.lock.log
+**/*.iws.properties.bin.pid.log.lock
+**/*.iws.properties.bin.pid.log.lock.log
+**/*.iws.properties.bin.pid.log.lock.pid
+**/*.iws.properties.bin.pid.log.lock.pid.lock
+**/*.iws.properties.bin.pid.log.lock.pid.lock.log
+**/*.iws.properties.bin.pid.log.lock.pid.lock.log.lock
+**/*.iws.properties.bin.pid.log.lock.pid.lock.log.lock.pid
+**/*.iws.properties.bin.pid.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.log.lock.pid.lock.
