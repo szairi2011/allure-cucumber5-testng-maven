@@ -3,6 +3,7 @@ package io.cucumber.shouty;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import org.testng.Assert;
 
 public class CustomParameter_StepDefinition {
     @Given("{person} has {int} bucks")
@@ -19,5 +20,6 @@ public class CustomParameter_StepDefinition {
     public void lucy_can_buy_a_coffee(Person person) {
         // Write code here that turns the phrase above into concrete actions
         throw new io.cucumber.java.PendingException();
+//        Assert.assertEquals(person, person);
     }
 }

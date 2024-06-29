@@ -4,6 +4,7 @@ https://jira.fis.dev/browse/FISCD-153881# Ignore generated files
 # Ignore test files
 **/test/*
 **/target/*
+./target/*
 
 # Ignore Cucumber reports
 **/cucumber-report/*

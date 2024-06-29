@@ -22,9 +22,9 @@ public class ListenerWithinRange_StepDefinition {
     }
     @Given("Lucy is located {int} meters from Sean")
     public void lucy_is_located_meters_from_sean(Integer distance) {
-        Allure.epic("FISCD-Epic-456");
-        Allure.feature("FISCD-Feature-003");
-        Allure.story("FISCD-Story-006");
+//        Allure.epic("FISCD-Epic-456");
+//        Allure.feature("FISCD-Feature-003");
+//        Allure.story("FISCD-Story-006");
         System.out.println(distance);
         sean = new Person();
         lucy = new Person();
@@ -32,9 +32,9 @@ public class ListenerWithinRange_StepDefinition {
     }
     @When("Sean shouts {string}")
     public void sean_shouts(String message) {
-        Allure.epic("FISCD-Epic-456");
-        Allure.feature("FISCD-Feature-003");
-        Allure.story("FISCD-Story-006");
+//        Allure.epic("FISCD-Epic-456");
+//        Allure.feature("FISCD-Feature-003");
+//        Allure.story("FISCD-Story-006");
         sean.shout(message);
         messageFromSean = message;
     }

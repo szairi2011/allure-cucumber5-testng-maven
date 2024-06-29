@@ -1,9 +1,0 @@
-io\cucumber\shouty\Person.class
-io\cucumber\shouty\CustomParameterTypes.class
-io\cucumber\shouty\CustomParameter_StepDefinition.class
-io\qameta\allure\examples\cucumber5\WebSteps.class
-io\cucumber\shouty\ListenerWithinRange_StepDefinition.class
-io\cucumber\shouty\CucumberTest.class
-io\qameta\allure\examples\cucumber5\CucumberTest.class
-io\qameta\allure\examples\cucumber5\RestSteps.class
-io\cucumber\shouty\Network.class

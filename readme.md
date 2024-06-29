@@ -1,3 +1,21 @@
+## Build the project
+
+Build the project with Intellij by using Maven test goal from the Maven palette.
+We can also run:
+```sh
+   $ mvn clean test
+```
+
+## Use Allure to generate the allute results
+
+After building the allure report under target/allure-results, run below commands to start the allure server:
+```sh
+   $ allure generate ./target/allure-results
+   $ allure open
+```
+
+NB: Allure cli uses JAVA_HOME environment variable to run. THe last time I had a corrupt jdk 8 env and I had to uninstall/re-install a new one.
+
 ## Jenkins URL:
 - http://emea-tun-ptds01:8080/
 - admin user: admin
